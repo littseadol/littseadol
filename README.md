@@ -1,16 +1,30 @@
-## Hi there 👋
+# 第一次作业-自我介绍+软工5问
 
-<!--
-**littseadol/littseadol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 这个作业属于哪个课程 | [班级链接](<https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience>) |
+| -------------------- | ------------------- |
+| 这个作业要求在哪里   | [作业要求](<https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469>) |
+| 这个作业的目标       | 自我介绍、阅读并理解教材、总结自己想要获得的收获，同时熟悉博客园及Github和Git操作 |
 
-Here are some ideas to get you started:
+## 一、自我介绍及经历
+（这里填写您的个人介绍，例如：）
+- 兴趣爱好：篮球、唱歌、游戏
+- 技术方向：java后端开发
+- 项目经历：参与科研-认知智能算法团队元境守护智慧教学系统开发，研究多项OpenAi相关开源项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 二、阅读教材后想弄懂的问题
+1.个人编程习惯如何适应团队规范化开发
+2.需求分析和设计在实际项目中的具体应用
+3.版本控制、测试和文档如何提升软件可维护性
+4.测试驱动开发的具体实践和意义
+5.工程化方法如何提高项目可扩展性
+
+## 三、想要获得的收获
+1. 掌握软件开发的完整生命周期管理
+2. 提升团队协作与沟通能力
+3. 建立规范的代码管理和版本控制习惯
+4. 学习自动化测试和持续集成实践
+5. 培养工程化思维和项目管理能力
+
+## 四、GitHub与作业仓库
+- 个人GitHub主页：(https://github.com/littseadol)
+- 作业备份仓库：(https://github.com/littseadol/littseadol)
